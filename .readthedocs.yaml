@@ -17,6 +17,6 @@ sphinx:
   fail_on_warning: true
 
 formats:
+  - htmlzip
   - pdf
   - epub
-  - htmlzip
